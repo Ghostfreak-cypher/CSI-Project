@@ -1,6 +1,6 @@
 import React from "react";
-import Logo from "./components/Logo";
-import LandingPage from "./components/LandingPage";
+import Logo from "./Home/Logo";
+import LandingPage from "./Home/LandingPage";
 function App() {
   return (
     <div>
